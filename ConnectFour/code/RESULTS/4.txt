@@ -1,0 +1,95 @@
+ebru@ebru-X55A ~/Masaüstü/HW5/141044049 $ ./exe < r4
+Enter game mode (P/D/U)	--> 
+Enter a board size width and height OR filename (.txt)	--> 
+Player | Computer	--> 
+BOARD IS:
+a b c d e 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+------------------------------------------------
+
+
+
+
+A
+BOARD IS:
+a b c d e 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+X . . . . 
+
+B
+BOARD IS:
+a b c d e 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+X O . . . 
+
+A
+BOARD IS:
+a b c d e 
+. . . . . 
+. . . . . 
+. . . . . 
+X . . . . 
+X O . . . 
+
+B
+BOARD IS:
+a b c d e 
+. . . . . 
+. . . . . 
+. . . . . 
+X O . . . 
+X O . . . 
+
+A
+BOARD IS:
+a b c d e 
+. . . . . 
+. . . . . 
+X . . . . 
+X O . . . 
+X O . . . 
+
+SAVE 1.TXT
+FILE CREATED AND WROTE
+
+
+B
+BOARD IS:
+a b c d e 
+. . . . . 
+. . . . . 
+X O . . . 
+X O . . . 
+X O . . . 
+
+LOAD 1.TXT
+FILE OPENED AND LOAD
+
+BOARD IS:
+a b c d e 
+. . . . . 
+. . . . . 
+X . . . . 
+X O . . . 
+X O . . . 
+
+A
+BOARD IS:
+a b c d e 
+. . . . . 
+O . . . . 
+X . . . . 
+X O . . . 
+X O . . . 
+
+

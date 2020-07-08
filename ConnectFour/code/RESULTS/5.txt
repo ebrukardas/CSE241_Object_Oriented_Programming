@@ -1,0 +1,99 @@
+Enter game mode (P/D/U)	--> 
+Enter a board size width and height OR filename (.txt)	--> 
+Player | Computer	--> 
+BOARD IS:
+a b c d e 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+------------------------------------------------
+
+
+
+
+A
+BOARD IS:
+a b c d e 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+X . . . . 
+
+B
+BOARD IS:
+a b c d e 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+X O . . . 
+
+A
+BOARD IS:
+a b c d e 
+. . . . . 
+. . . . . 
+. . . . . 
+X . . . . 
+X O . . . 
+
+B
+BOARD IS:
+a b c d e 
+. . . . . 
+. . . . . 
+. . . . . 
+X O . . . 
+X O . . . 
+
+A
+BOARD IS:
+a b c d e 
+. . . . . 
+. . . . . 
+X . . . . 
+X O . . . 
+X O . . . 
+
+UNDO
+
+BOARD IS:
+a b c d e 
+. . . . . 
+. . . . . 
+. . . . . 
+X . . . . 
+X O . . . 
+
+B
+BOARD IS:
+a b c d e 
+. . . . . 
+. . . . . 
+. . . . . 
+X O . . . 
+X O . . . 
+
+UNDO
+
+BOARD IS:
+a b c d e 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+X O . . . 
+
+A
+BOARD IS:
+a b c d e 
+. . . . . 
+. . . . . 
+. . . . . 
+X . . . . 
+X O . . . 
+
+

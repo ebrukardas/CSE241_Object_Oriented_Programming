@@ -1,0 +1,78 @@
+MOV #0, 563
+MOV #1, 85
+MOV #2, 0
+MOV #3, 65
+MOV #4, 88
+MOV #5, 66
+MOV #6, 69
+MOV #7, 33
+MOV #8, 45
+MOV #9, 20
+MOV R5, 10	; counter for 10 loop
+MOV #0,R1  ; instruction
+MOV #1,R2
+MOV #0, R3 
+SUB R1, R2 ; substraction for small
+JPN R1, 19
+MOV R2, #0 ; swap
+Mov r3, #1 ; swap
+Mov #1,R1 ; another inst
+Mov #2,R2
+MOV #1, R3 
+SUB R1, R2
+JPN R1, 26
+Mov r2, #1
+mov R3,#2
+Mov #2,R1 ; another inst
+Mov #3,R2
+MOV #2, R3 
+SUB R1, R2
+JPN R1, 33
+Mov r2, #2
+mov R3,#3
+Mov #3,R1 ; another inst
+Mov #4,R2
+MOV #3, R3 
+SUB R1, R2
+JPN R1, 40
+Mov r2, #3
+mov R3,#4
+Mov #4,R1 ; another inst
+Mov #5,R2
+MOV #4, R3 
+SUB R1, R2
+JPN R1, 47
+Mov r2, #4
+mov R3,#5
+Mov #5,R1 ; another inst
+Mov #6,R2
+MOV #5, R3 
+SUB R1, R2
+JPN R1, 54
+Mov r2, #5
+mov R3,#6
+Mov #6,R1 ; another inst
+Mov #7,R2
+MOV #6, R3 
+SUB R1, R2
+JPN R1, 61
+Mov r2, #6
+mov R3,#7
+Mov #7,R1 ; another inst
+Mov #8,R2
+MOV #7, R3 
+SUB R1, R2
+JPN R1, 68
+Mov r2, #7
+mov R3,#8
+Mov #8,R1 ; another inst
+Mov #9,R2
+MOV #8, R3 
+SUB R1, R2
+JPN R1, 75
+Mov r2, #8
+mov R3,#9
+Sub R5, 1
+Jmp r5 , 78
+jmp 12
+HLT

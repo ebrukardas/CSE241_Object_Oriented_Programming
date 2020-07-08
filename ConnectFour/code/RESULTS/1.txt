@@ -1,0 +1,81 @@
+ebru@ebru-X55A ~/Masaüstü/HW5/141044049 $ ./exe < r1
+Enter game mode (P/D/U)	--> 
+Enter a board size width and height OR filename (.txt)	--> 
+Player | Computer	--> 
+BOARD IS:
+a b c d e 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+------------------------------------------------
+
+
+
+BOARD IS:
+a b c d e 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+X . . . . 
+
+BOARD IS:
+a b c d e 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+X O . . . 
+
+BOARD IS:
+a b c d e 
+. . . . . 
+. . . . . 
+. . . . . 
+X . . . . 
+X O . . . 
+
+BOARD IS:
+a b c d e 
+. . . . . 
+. . . . . 
+. . . . . 
+X O . . . 
+X O . . . 
+
+BOARD IS:
+a b c d e 
+. . . . . 
+. . . . . 
+X . . . . 
+X O . . . 
+X O . . . 
+
+BOARD IS:
+a b c d e 
+. . . . . 
+. . . . . 
+X O . . . 
+X O . . . 
+X O . . . 
+
+
+------------------------------------------------
+
+BOARD IS:
+a b c d e 
+. . . . . 
+x . . . . 
+x O . . . 
+x O . . . 
+x O . . . 
+BOARD IS:
+a b c d e 
+. . . . . 
+x . . . . 
+x O . . . 
+x O . . . 
+x O . . . 
+
